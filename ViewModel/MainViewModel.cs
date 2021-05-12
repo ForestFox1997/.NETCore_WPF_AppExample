@@ -13,6 +13,7 @@ namespace ExcelDataHandler.ViewModel
         {
             FirstCommand = new RelayCommand(FirstCommandMethod);
             SecondCommand = new RelayCommand(SecondCommandMethod);
+            new ExcelDataHandler.Model.MainModel().LoadExclData(); //DEBUG!
         }
 
         #region Commands
