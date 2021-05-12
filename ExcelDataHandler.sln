@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelDataHandler", "ExcelDataHandler.csproj", "{A8B643BB-1B6F-47DB-9CC1-63B00E995E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B643BB-1B6F-47DB-9CC1-63B00E995E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B643BB-1B6F-47DB-9CC1-63B00E995E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B643BB-1B6F-47DB-9CC1-63B00E995E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B643BB-1B6F-47DB-9CC1-63B00E995E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64D536AF-43C5-4C2C-9229-570F7D4778C9}
+	EndGlobalSection
+EndGlobal
